@@ -2,7 +2,7 @@
     "name": "pmm",
     "author": "Salesforce.org Impact Engineering",
     "license": "UNLICENSED",
-    "repository": "git@github.com:SalesforceFoundation/pmm.git",
+    "repository": "git@github.com:nimba-actions/pmm.git",
     "private": true,
     "devDependencies": {
         "@lwc/eslint-plugin-lwc": "^0.8.0",

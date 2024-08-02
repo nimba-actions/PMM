@@ -8,17 +8,17 @@ Program Management Module (PMM) is a standard framework that connects all progra
 * View known issues (https://trailblazer.salesforce.com/issues_index?tag=SFDO%20Program%20Management%20Module?) 
 * Check out the Idea Exchange and log feature requests (https://ideas.salesforce.com/s/search#t=All&sort=relevancy) 
 * View User Documentation (https://powerofus.force.com/PMM_Documentation)
-* Check out existing bugs (https://github.com/SalesforceFoundation/pmm/labels/bug)
-* Review Release Notes and Beta Releases (https://github.com/SalesforceFoundation/PMM/releases)
+* Check out existing bugs (https://github.com/nimba-actions/pmm/labels/bug)
+* Review Release Notes and Beta Releases (https://github.com/nimba-actions/PMM/releases)
 
 
 **FOR DEVELOPERS**
-Program Management Module is released under the open source BSD license (see link below for additional license information). Contributions (code and otherwise) are welcome and encouraged. Please see the project wiki (https://github.com/SalesforceFoundation/PMM/wiki) for additional information.
+Program Management Module is released under the open source BSD license (see link below for additional license information). Contributions (code and otherwise) are welcome and encouraged. Please see the project wiki (https://github.com/nimba-actions/PMM/wiki) for additional information.
 
 **META**
 The Program Management Module (“PMM”) technology is an open-source package licensed by salesforce.com, Inc. or one of its Affiliates (“SFDC”) under the BSD-3 Clause License, found at _https://opensource.org/licenses/BSD-3-Clause_ (https://opensource.org/licenses/BSD-3-Clause). When you install the PMM package, the SFDO Base package, a closed-source technology licensed by SFDC under a proprietary limited use license, will automatically be installed into your Salesforce org. 
 
-BY INSTALLING PMM, YOU AGREE TO ITS LICENSE (_https://github.com/SalesforceFoundation/PMM/blob/master/LICENSE.txt_ (https://github.com/SalesforceFoundation/PMM/blob/master/LICENSE.txt)) AND THE SFDO BASE LICENSE (_https://github.com/SalesforceFoundation/ProductLicenses/blob/master/SFDOBase.md_ (https://github.com/SalesforceFoundation/ProductLicenses/blob/master/SFDOBase.md)).
+BY INSTALLING PMM, YOU AGREE TO ITS LICENSE (_https://github.com/nimba-actions/PMM/blob/master/LICENSE.txt_ (https://github.com/nimba-actions/PMM/blob/master/LICENSE.txt)) AND THE SFDO BASE LICENSE (_https://github.com/nimba-actions/ProductLicenses/blob/master/SFDOBase.md_ (https://github.com/nimba-actions/ProductLicenses/blob/master/SFDOBase.md)).
 
 ANY MASTER SUBSCRIPTION AGREEMENT YOU OR YOUR ENTITY MAY HAVE WITH SFDC DOES NOT APPLY TO YOUR USE OF PMM OR SFDO BASE. AN “AFFILIATE” MEANS ANY ENTITY THAT DIRECTLY OR INDIRECTLY CONTROLS, IS CONTROLLED BY, OR IS UNDER COMMON CONTROL WITH THE SUBJECT ENTITY. “CONTROL,” FOR PURPOSES OF THIS DEFINITION, MEANS DIRECT OR INDIRECT OWNERSHIP OR CONTROL OF MORE THAN 50% OF THE VOTING INTERESTS OF THE SUBJECT ENTITY. SALESFORCE.ORG LLC IS AN AFFILIATE OF SALESFORCE.COM, INC. 
 

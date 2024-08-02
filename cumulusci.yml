@@ -9,7 +9,7 @@ project:
     source_format: sfdx
     git:
         default_branch: main
-        repo_url: https://github.com/SalesforceFoundation/PMM
+        repo_url: https://github.com/nimba-actions/PMM
         prefix_beta: uat/
         prefix_release: release/
     dependencies:
@@ -32,7 +32,7 @@ orgs:
 
 sources:
     npsp:
-        github: https://github.com/SalesforceFoundation/NPSP
+        github: https://github.com/nimba-actions/NPSP
 
 tasks:
     github_automerge_feature:

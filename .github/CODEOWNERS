@@ -1,17 +1,17 @@
 #GUSINFO:NPC Asteroids, SFDO Program Management Module
 
 # Python
-*.py                  @SalesforceFoundation/release-engineering-reviewers
+*.py                  @nimba-actions/release-engineering-reviewers
 
 # CumulusCI
-/cumulusci.yml        @SalesforceFoundation/release-engineering-reviewers
-/tasks/               @SalesforceFoundation/release-engineering-reviewers
+/cumulusci.yml        @nimba-actions/release-engineering-reviewers
+/tasks/               @nimba-actions/release-engineering-reviewers
 
 # Packaged Metadata
 /force-app/main/default/labels   @AndersonTarren @ptewson-sfdo @fanwar-salesforce @rpolk-sfdc
 /force-app/main/default/objects  @AndersonTarren @ptewson-sfdo @fanwar-salesforce @rpolk-sfdc
 
 # Actions
-/.github                @SalesforceFoundation/release-engineering-reviewers
-/scripts                @SalesforceFoundation/release-engineering-reviewers
+/.github                @nimba-actions/release-engineering-reviewers
+/scripts                @nimba-actions/release-engineering-reviewers
 #ECCN:Open Source

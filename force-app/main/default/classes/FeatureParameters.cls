@@ -7,7 +7,7 @@
  *
  */
 
-/* The below comments were created as part of https://github.com/SalesforceFoundation/PMM/pull/205. 
+/* The below comments were created as part of https://github.com/nimba-actions/PMM/pull/205. 
 Refer to the PR for any additional reference.
 
 When a new telemetry feature parameter needs to be added we need to modify this class and do the following : 
